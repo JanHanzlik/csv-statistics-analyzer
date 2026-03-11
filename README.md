@@ -27,4 +27,4 @@ CSV_Statistics_Analyzer/
 ├── test_data.csv
 ├── requirements.txt
 ├── README.md
-└── .gitignore
+└── .gitignore# csv-statistics-analyzer
