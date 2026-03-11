@@ -1,0 +1,8 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.idea/
+output_report.xlsx
+raw_data_output.csv
+statistics_output.csv
